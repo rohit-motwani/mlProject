@@ -4,5 +4,10 @@ python-dotenv
 mysql-connector-python
 pymysql
 scikit-learn
-dvc #(data version control)
+catboost
+xgboost
+dvc
+seaborn
+matplotlib
+ipykernel
 # -e.
