@@ -10,4 +10,6 @@ dvc
 seaborn
 matplotlib
 ipykernel
+dill
+mlflow
 # -e.
