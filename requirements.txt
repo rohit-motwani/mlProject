@@ -12,4 +12,5 @@ matplotlib
 ipykernel
 dill
 mlflow
+flask_cors
 # -e.
